@@ -1,0 +1,13 @@
+205a0b601cee59b62d30e40ff1be265a *DESCRIPTION
+0fcd0ab15bd3870650f2ebec1496a9e2 *NAMESPACE
+856f1ffe214a0272192baa27441b6744 *R/clock.table.R
+e429bff3c7cb2e7c473d53aad7d17911 *R/headlines.R
+27424a05abe37a57c0fbe2d05d8856b0 *R/methods.R
+958aabac789b5c87040cf8ddcb6a7a29 *R/orgR.R
+e1671d6313e06add7b1662465f01175c *man/GetClockTable.Rd
+82b4cabe011d3e1f906ef8708250e776 *man/GetHeadlines.Rd
+22f50fd535be4c81af0c718e604ed0cb *man/ToISOdate.Rd
+9cc76f4f6926a842bcb14f59d3c45570 *man/orgR.Rd
+cc956d2d31d99130ec7c8226e2055a9e *man/search.parent.Rd
+2bb07687a63bda38778df901c4d9edd9 *man/time.stampe.Rd
+e9ea82bed7c66af981e660eaad6d76d8 *man/tree.headings.Rd
